@@ -13,8 +13,10 @@ O objetivo desse projeto é oferecer um modelo simples de documentação de sist
 
 <h2>Ferramentas utilizadas</h2>
 <ul>
-  <li><a href="https://react.dev/">React.js: </a>React é uma biblioteca JavaScript open-source para o desenvolvimento de interfaces de usuário em páginas web.</li>
-  <li><a href="https://vitejs.dev/">Vite: </a>O Vite é uma ferramenta para desenvolvimento de front-end que promove um desempenho extremamente rápido e produtividade aprimorada.</li>
+  <li><a href="https://react.dev/">REACT.JS </a>- React é uma biblioteca JavaScript open-source para o desenvolvimento de interfaces de usuário em páginas web.</li>
+  <br>
+  <li><a href="https://vitejs.dev/">VITE </a>- O Vite é uma ferramenta para desenvolvimento de front-end que promove um desempenho extremamente rápido e produtividade aprimorada.</li>
+  <li><a href="https://tailwindcss.com/">TAILWIND </a>- Tailwind CSS é um framework CSS de código aberto que se diferencia por sua abordagem única de classes utilitárias.</li>
 </ul>
 <hr>
 
