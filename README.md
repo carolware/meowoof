@@ -24,10 +24,10 @@ O objetivo desse projeto é oferecer um modelo simples de documentação de sist
 <hr>
 
 <h2>Autor(a)</h2>
-<li><em>Caroline Pereira Xavier: responsável pela construção, desenvolvimento e criação do layout.</em></li>
+  <li><em>Caroline Pereira Xavier: responsável pela construção, desenvolvimento e criação do layout.</em></li>
 
 <hr>
 
 <h2>Licença</h2>
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="https://github.com/carolware/meowoof/blob/main/LICENSE">LICENSE.md</a> para obter detalhes.
 
