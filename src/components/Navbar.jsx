@@ -57,7 +57,7 @@ const Navbar = () => {
                     spy={true}
                     smooth={true}
                     offset={-100}
-                    className="block text-sm text-black hover:text-white"
+                    className="block text-sm text-white hover:text-black"
                   >
                     {link}
                   </Link>
@@ -78,7 +78,7 @@ const Navbar = () => {
               </button>
             </div>
 
-            <div className={`space-y-4 px-4 mt-16 py-7 md:hidden  bg-mainOrange ${isMenuOpen ? 'block fixed top-0 right-0 left-0' : 'hidden'}`}>
+            <div className={`space-y-4 px-4 mt-16 py-7 md:hidden bg-mainOrange ${isMenuOpen ? 'block fixed top-0 right-0 left-0 z-50' : 'hidden'}`}>
               {navItems.map(({ link, path }) => (
                 <Link
                   to={path}
