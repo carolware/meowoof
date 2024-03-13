@@ -1,4 +1,3 @@
-import { Carousel } from 'flowbite';
 import React from 'react';
 import Navbar from './Navbar';
 import Elipse from '../assets/Elipse.png';
@@ -15,7 +14,10 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            Não compre, adote!
+            Não compre, 
+          </h1>
+          <h1 className="secondary-heading">
+            adote!
           </h1>
           <p className="primary-text">
             Quando você adota um pet, salva duas vidas: a sua e a dele.
