@@ -25,10 +25,11 @@ O objetivo desse projeto é implementar uma landing page feita em React.js. Idea
 
 <h2>Modo de uso</h2>
 Para subir o projeto, aqui vão alguns passos essenciais:
+<br>
 <ol>
   <li>Caso não tenha, instale o Node.js na sua máquina. Link: <a href='https://nodejs.org/en/download/current'>Node.js.</a></li>
   <li>Após instalar o Node, já com seu editor de texto aberto no projeto, abra o terminal com CTRL + J e execute o comando <b>"npm install"</b>, para instalar as dependências do projeto.</li>
-  <li>Ao instalar, suba o projeto com o comando <b>"npm run dev"</b></li>
+  <li>Ao instalar, suba o projeto com o comando <b>"npm run dev"</b></li>.
 </ol>
 
 <hr>
