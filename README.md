@@ -23,6 +23,16 @@ O objetivo desse projeto é implementar uma landing page feita em React.js. Idea
 </ul>
 <hr>
 
+<h2>Modo de uso</h2>
+Para subir o projeto, aqui vão alguns passos essenciais:
+<ol>
+  <li>Caso não tenha, instale o Node.js na sua máquina. Link: <a href='https://nodejs.org/en/download/current'>Node.js.</a></li>
+  <li>Após instalar o Node, já com seu editor de texto aberto no projeto, abra o terminal com CTRL + J e execute o comando <b>"npm install"</b>, para instalar as dependências do projeto.</li>
+  <li>Ao instalar, suba o projeto com o comando <b>"npm run dev"</b></li>
+</ol>
+
+<hr>
+
 <h2>Autor(a)</h2>
   <li><em>Caroline Pereira Xavier: responsável pela construção, desenvolvimento e criação do layout.</em></li>
 
@@ -30,4 +40,6 @@ O objetivo desse projeto é implementar uma landing page feita em React.js. Idea
 
 <h2>Licença</h2>
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="https://github.com/carolware/meowoof/blob/main/LICENSE">LICENSE.md</a> para obter detalhes.
+
+
 
