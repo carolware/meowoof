@@ -7,10 +7,6 @@ O objetivo desse projeto é implementar uma landing page feita em React.js. Idea
 
 <hr>
 
-<h2>Modo de uso</h2>
-
-<hr>
-
 <h2>Ferramentas utilizadas</h2>
 <ul>
   <li><a href="https://react.dev/">REACT.JS </a>- React é uma biblioteca JavaScript open-source para o desenvolvimento de interfaces de usuário em páginas web.</li>
