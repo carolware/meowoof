@@ -28,7 +28,7 @@ export const HowTo = () => {
   return (
     <div className='md:px-14 px-4 py-16 max-w-screen-2xl mx-auto'>
       <div className='text-center my-8'>
-        <h2 className='text-5xl text-black font-semibold mb-2'>Como funciona</h2>
+        <h2 className='text-5xl text-black font-bold mb-2'>Como funciona</h2>
         <p className='text-black text-lg mb-8'>
           Veja o passo a passo para adotar um de nossos pets!
         </p>
@@ -40,7 +40,7 @@ export const HowTo = () => {
               <div className='h-14 w-14 mx-auto'>
                 <img src={HowTo.image} alt='icones' className='-ml-5' />
               </div>
-              <h4 className='text-2xl font-bold mb-2'>{HowTo.title}</h4>
+              <h4 className='text-2xl font-semibold mb-2'>{HowTo.title}</h4>
               <p className='text-sm text-justify'>{HowTo.descroption}</p>
             </div>
           </div>
