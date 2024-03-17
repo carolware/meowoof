@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import logoMeowoof from '../assets/logoMeowoof.png';
 import { Link } from 'react-scroll';
-
-// Ícones
 import { FaXmark, FaBars } from 'react-icons/fa6';
 
 const Navbar = () => {
@@ -92,11 +90,10 @@ const Navbar = () => {
               </button>
             </div>
 
-            {/* Elemento para escurecer o fundo */}
             {isMenuOpen && (
               <div
                 className="fixed top-0 left-0 right-0 bottom-0 bg-black opacity-50 z-40"
-                onClick={toggleMenu} // Fechar o menu quando clicado no fundo escuro
+                onClick={toggleMenu} 
               />
             )}
 
